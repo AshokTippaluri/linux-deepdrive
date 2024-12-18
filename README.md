@@ -1,1 +1,1 @@
-# MYSQL
+# Shell scripting exercises
