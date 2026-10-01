@@ -5,7 +5,7 @@
 echo "Detecting Linux version..."
 
 # Check and display the version
-if [ -f /etc/os-releas ]; then
+if [ -f /etc/os-release ]; then
     # Read from os-release file
     . /etc/os-release
     echo "Operating System: $NAME"

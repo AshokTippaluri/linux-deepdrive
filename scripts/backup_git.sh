@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 # Define variables for paths and timestamp
 TMP_DIR="/tmp"
